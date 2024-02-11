@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Prajapati </h1>
 <h3 align="center">A passionate Tech user. Love to explore new technologies.😄
 </h3>
-
+<!-- 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohamPrajapati&label=Profile%20views&color=0e75b6&style=flat" alt="SohamPrajapati" /> </p>
 
